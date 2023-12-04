@@ -1,0 +1,11 @@
+paymentId,customerId,amount,scheduledDate,sourceAccountId,targetAccountId,amountType,iterate,numberOfTransfers,updateTransferType
+1001,2001,5000,2022-05-01,3001,4001,debit,false,1,manual
+1002,2002,6000,2022-06-01,3002,4002,credit,true,2,automatic
+1003,2003,7000,2022-07-01,3003,4003,debit,false,3,manual
+1004,2004,8000,2022-08-01,3004,4004,credit,true,4,automatic
+1005,2005,9000,2022-09-01,3005,4005,debit,false,5,manual
+1006,2006,10000,2022-10-01,3006,4006,credit,true,6,automatic
+1007,2007,11000,2022-11-01,3007,4007,debit,false,7,manual
+1008,2008,12000,2022-12-01,3008,4008,credit,true,8,automatic
+1009,2009,13000,2023-01-01,3009,4009,debit,false,9,manual
+1010,2010,14000,2023-02-01,3010,4010,credit,true,10,automatic

@@ -1,0 +1,11 @@
+koreUserId,botId,accountId,customerId,sourceAccountId,amount,currency,frontImage,backImage
+12345,6789,1111,2222,3333,500,USD,front1.jpg,back1.jpg
+23456,7890,2222,3333,4444,1000,EUR,front2.jpg,back2.jpg
+34567,8901,3333,4444,5555,1500,GBP,front3.jpg,back3.jpg
+45678,9012,4444,5555,6666,2000,JPY,front4.jpg,back4.jpg
+56789,0123,5555,6666,7777,2500,CNY,front5.jpg,back5.jpg
+67890,1234,6666,7777,8888,3000,AUD,front6.jpg,back6.jpg
+78901,2345,7777,8888,9999,3500,CAD,front7.jpg,back7.jpg
+89012,3456,8888,9999,1111,4000,CHF,front8.jpg,back8.jpg
+90123,4567,9999,1111,2222,4500,SEK,front9.jpg,back9.jpg
+01234,5678,1111,2222,3333,5000,NZD,front10.jpg,back10.jpg

@@ -1,0 +1,11 @@
+customerId,emailId,transactionId,reasonCode
+1234,john_doe@example.com,5678,100
+2345,jane_doe@example.com,6789,200
+3456,mark_smith@example.com,7890,300
+4567,emma_jones@example.com,8901,400
+5678,jack_brown@example.com,9012,500
+6789,olivia_taylor@example.com,0123,600
+7890,liam_williams@example.com,1234,700
+8901,ava_davies@example.com,2345,800
+9012,william_johnson@example.com,3456,900
+0123,sophia_evans@example.com,4567,100

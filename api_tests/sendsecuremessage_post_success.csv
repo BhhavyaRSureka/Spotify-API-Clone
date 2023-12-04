@@ -1,0 +1,11 @@
+authType,firstName,lastName,email,phoneNumber,topic,message,availableTime,chatHistory,cif
+OAuth2,John,Doe,johndoe@gmail.com,1234567890,General Inquiry,Hello, how can I help?,2022-02-22 10:00:00,You: Hi\nBot: Hello, how can I help?,123456
+SSO,Mary,Smith,marysmith@gmail.com,0987654321,Billing,Your bill is due on 25th,2022-02-22 11:00:00,You: When is my bill due?\nBot: Your bill is due on 25th,234567
+OAuth2,James,Brown,jamesbrown@gmail.com,1122334455,Technical Support,Please restart your device,2022-02-22 12:00:00,You: My device is not working\nBot: Please restart your device,345678
+SSO,Patricia,Johnson,patriciajohnson@gmail.com,5566778899,Account Management,Your account is active,2022-02-22 13:00:00,You: Is my account active?\nBot: Your account is active,456789
+OAuth2,Robert,Williams,robertwilliams@gmail.com,9988776655,General Inquiry,We are open from 9am to 5pm,2022-02-22 14:00:00,You: What are your hours?\nBot: We are open from 9am to 5pm,567890
+SSO,Jennifer,Davis,jenniferdavis@gmail.com,8877665544,Billing,Your current balance is $200,2022-02-22 15:00:00,You: How much do I owe?\nBot: Your current balance is $200,678901
+OAuth2,Michael,Miller,michaelmiller@gmail.com,7766554433,Technical Support,Your ticket has been submitted,2022-02-22 16:00:00,You: Can you help me with my issue?\nBot: Your ticket has been submitted,789012
+SSO,Linda,Wilson,lindawilson@gmail.com,6655443322,Account Management,Your subscription has been renewed,2022-02-22 17:00:00,You: Has my subscription been renewed?\nBot: Your subscription has been renewed,890123
+OAuth2,William,Moore,williammoore@gmail.com,5544332211,General Inquiry,Our address is 123 Main St,2022-02-22 18:00:00,You: What is your address?\nBot: Our address is 123 Main St,901234
+SSO,Elizabeth,Taylor,elizabethtaylor@gmail.com,4433221100,Billing,Your payment has been received,2022-02-22 19:00:00,You: Did you receive my payment?\nBot: Your payment has been received,012345

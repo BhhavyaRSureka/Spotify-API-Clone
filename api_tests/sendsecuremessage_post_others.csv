@@ -1,0 +1,11 @@
+authType,firstName,lastName,email,phoneNumber,topic,message,availableTime,chatHistory,cif
+OAuth,John,Doe,johndoe@gmail.com,1234567890,Inquiry,Hello there,10:00 AM,John: Hi|Support: Hello,1001
+SAML,Mary,Smith,marysmith@gmail.com,2345678901,Request,Need assistance,02:00 PM,Mary: Hi|Support: Hello,1002
+JWT,James,Brown,jamesbrown@gmail.com,3456789012,Complaint,Service not working,09:00 AM,James: Hi|Support: Hello,1003
+OAuth,Linda,Johnson,lindajohnson@gmail.com,4567890123,Inquiry,How to use this?,03:00 PM,Linda: Hi|Support: Hello,1004
+SAML,Robert,Miller,robertmiller@gmail.com,5678901234,Request,Need more info,11:00 AM,Robert: Hi|Support: Hello,1005
+JWT,Patricia,Garcia,patriciagarcia@gmail.com,6789012345,Complaint,It's too slow,04:00 PM,Patricia: Hi|Support: Hello,1006
+OAuth,Michael,Rodriguez,michaelrodriguez@gmail.com,7890123456,Inquiry,Payment method,01:00 PM,Michael: Hi|Support: Hello,1007
+SAML,Elizabeth,Martinez,elizabethmartinez@gmail.com,8901234567,Request,Can't login,05:00 PM,Elizabeth: Hi|Support: Hello,1008
+JWT,William,Hernandez,williamhernandez@gmail.com,9012345678,Complaint,App crashes,12:00 PM,William: Hi|Support: Hello,1009
+OAuth,Jennifer,Lopez,jenniferlopez@gmail.com,0123456789,Inquiry,Where's my order?,06:00 PM,Jennifer: Hi|Support: Hello,1010

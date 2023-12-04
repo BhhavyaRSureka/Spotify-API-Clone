@@ -1,0 +1,11 @@
+koreUserId,botId,accountId,Authorization,X-Auth-token,X-CORRELATION-ID,customerId,accountNumber,numOfTransactions,status,startDate,endDate,sortType,sortValue,transactionAmount1,transactionAmount,transactionCurrency,categoryCodeType,categoryValue,categorySource,debitOrCredit
+12345,6789,101112,authkey123,token456,cid789,13579,246810,20,active,2021-01-01,2021-12-31,asc,1,1000,2000,USD,code1,value1,source1,debit
+23456,7890,121314,authkey234,token567,cid890,246810,357911,30,inactive,2021-02-01,2021-11-30,desc,2,2000,3000,EUR,code2,value2,source2,credit
+34567,8901,131415,authkey345,token678,cid901,357911,468102,40,active,2021-03-01,2021-10-31,asc,3,3000,4000,JPY,code3,value3,source3,debit
+45678,9012,141516,authkey456,token789,cid012,468102,579213,50,inactive,2021-04-01,2021-09-30,desc,4,4000,5000,GBP,code4,value4,source4,credit
+56789,0123,151617,authkey567,token890,cid123,579213,681024,60,active,2021-05-01,2021-08-31,asc,5,5000,6000,AUD,code5,value5,source5,debit
+67890,1234,161718,authkey678,token901,cid234,681024,792135,70,inactive,2021-06-01,2021-07-31,desc,6,6000,7000,CAD,code6,value6,source6,credit
+78901,2345,171819,authkey789,token012,cid345,792135,813246,80,active,2021-07-01,2021-06-30,asc,7,7000,8000,CHF,code7,value7,source7,debit
+89012,3456,181920,authkey890,token123,cid456,813246,924357,90,inactive,2021-08-01,2021-05-31,desc,8,8000,9000,INR,code8,value8,source8,credit
+90123,4567,192021,authkey901,token234,cid567,924357,103548,100,active,2021-09-01,2021-04-30,asc,9,9000,10000,CNY,code9,value9,source9,debit
+01234,5678,202122,authkey012,token345,cid678,103548,114659,110,inactive,2021-10-01,2021-03-31,desc,10,10000,11000,RUB,code10,value10,source10,credit

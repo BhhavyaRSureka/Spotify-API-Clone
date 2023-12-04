@@ -1,0 +1,11 @@
+koreUserId,botId,accountId,customerId,emailId,transactionId,reasonCode
+9876,1234,5678,9012,john.doe@example.com,3456,123
+8765,2345,6789,0123,jane.doe@example.com,4567,234
+7654,3456,7890,1234,jack.doe@example.com,5678,345
+6543,4567,8901,2345,jill.doe@example.com,6789,456
+5432,5678,9012,3456,james.doe@example.com,7890,567
+4321,6789,0123,4567,julia.doe@example.com,8901,678
+3210,7890,1234,5678,jerry.doe@example.com,9012,789
+2109,8901,2345,6789,jasmine.doe@example.com,0123,890
+1098,9012,3456,7890,jacob.doe@example.com,1234,901
+0987,0123,4567,8901,jennifer.doe@example.com,2345,012

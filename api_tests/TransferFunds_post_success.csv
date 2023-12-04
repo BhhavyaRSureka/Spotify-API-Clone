@@ -1,0 +1,11 @@
+customerId,amount,currency,sourceAccountId,targetAccountId,date,description,TransactionType,PaymentType
+12345,100,USD,987654,123456,2022-01-01,Purchase,Debit,Online
+12346,200,EUR,987655,123457,2022-01-02,Payment,Debit,Offline
+12347,300,GBP,987656,123458,2022-01-03,Transfer,Credit,Online
+12348,400,JPY,987657,123459,2022-01-04,Payment,Debit,Offline
+12349,500,CAD,987658,123460,2022-01-05,Purchase,Credit,Online
+12350,600,AUD,987659,123461,2022-01-06,Transfer,Debit,Offline
+12351,700,CHF,987660,123462,2022-01-07,Purchase,Credit,Online
+12352,800,SEK,987661,123463,2022-01-08,Payment,Debit,Offline
+12353,900,NOK,987662,123464,2022-01-09,Transfer,Credit,Online
+12354,1000,DKK,987663,123465,2022-01-10,Purchase,Debit,Offline
