@@ -1,0 +1,11 @@
+koreUserId,botId,accountId,accountNumber,customerId,email,alternatePhoneNumber,isAlternateMobileNumber,phone,isPrimaryMobileNumber,location,isStatement
+1234,5678,91011,123456,78910,john_doe@example.com,1234567890,True,0987654321,True,New York,True
+2345,6789,01112,234567,89101,jane_doe@example.com,2345678901,False,1098765432,False,Los Angeles,False
+3456,7890,11121,345678,91011,david_smith@example.com,3456789012,True,2109876543,True,Chicago,True
+4567,8901,12113,456789,01112,mary_jones@example.com,4567890123,False,3210987654,False,Houston,False
+5678,9012,13141,567890,11213,jack_williams@example.com,5678901234,True,4321098765,True,Phoenix,True
+6789,0123,14151,678901,21314,emily_brown@example.com,6789012345,False,5432109876,False,Philadelphia,False
+7890,1234,15161,789012,31415,michael_johnson@example.com,7890123456,True,6543210987,True,San Antonio,True
+8901,2345,16171,890123,41516,sarah_walker@example.com,8901234567,False,7654321098,False,San Diego,False
+9012,3456,17181,901234,51617,james_rodriguez@example.com,9012345678,True,8765432109,True,Dallas,True
+0123,4567,18191,012345,61718,jennifer_garcia@example.com,0123456789,False,9876543210,False,San Jose,False

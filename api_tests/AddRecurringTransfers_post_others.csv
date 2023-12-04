@@ -1,0 +1,11 @@
+customerId,amount,sourceAccountId,targetAccountId,currency,status,scheduledDate,amountType,iterate,untilStop,untilDate,numberOfTransfers
+123456,500.00,789456,963852,USD,completed,2022-01-15,debit,true,false,2022-12-31,12
+223456,600.00,889456,973852,EUR,pending,2022-02-15,credit,true,true,2022-11-30,10
+323456,700.00,989456,983852,GBP,failed,2022-03-15,debit,false,false,2022-10-31,8
+423456,800.00,189456,993852,JPY,completed,2022-04-15,credit,false,true,2022-09-30,6
+523456,900.00,289456,103852,CAD,pending,2022-05-15,debit,true,false,2022-08-31,4
+623456,1000.00,389456,113852,AUD,failed,2022-06-15,credit,true,true,2022-07-30,2
+723456,1100.00,489456,123852,CHF,completed,2022-07-15,debit,false,false,2022-06-30,0
+823456,1200.00,589456,133852,SEK,pending,2022-08-15,credit,false,true,2022-05-31,0
+923456,1300.00,689456,143852,NZD,failed,2022-09-15,debit,true,false,2022-04-30,0
+1023456,1400.00,789456,153852,CNY,completed,2022-10-15,credit,true,true,2022-03-31,0

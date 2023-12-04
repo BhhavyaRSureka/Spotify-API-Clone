@@ -1,0 +1,11 @@
+customerId,email,alternatePhoneNumber,isAlternateMobileNumber,phone,isPrimaryMobileNumber,location
+12345,johndoe@email.com,9876543210,true,1234567890,true,New York
+12346,janedoe@email.com,8765432109,true,2345678901,true,Los Angeles
+12347,stevejobs@email.com,7654321098,true,3456789012,true,San Francisco
+12348,billgates@email.com,6543210987,true,4567890123,true,Seattle
+12349,elonmusk@email.com,5432109876,true,5678901234,true,Silicon Valley
+12350,markzuckerberg@email.com,4321098765,true,6789012345,true,Chicago
+12351,larrypage@email.com,3210987654,true,7890123456,true,Mountain View
+12352,sergeybrin@email.com,2109876543,true,8901234567,true,Los Angeles
+12353,jeffbezos@email.com,1098765432,true,9012345678,true,Seattle
+12354,satyanadella@email.com,0987654321,true,0123456789,true,Redmond

@@ -1,0 +1,11 @@
+paymentId,updateTransferType,customerId
+123456,Wire Transfer,78901
+234567,ACH Transfer,89012
+345678,Wire Transfer,90123
+456789,ACH Transfer,123456
+567890,Wire Transfer,234567
+678901,ACH Transfer,345678
+789012,Wire Transfer,456789
+890123,ACH Transfer,567890
+901234,Wire Transfer,678901
+102345,ACH Transfer,789012

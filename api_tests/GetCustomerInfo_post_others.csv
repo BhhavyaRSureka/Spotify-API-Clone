@@ -1,0 +1,11 @@
+koreUserId,botId,accountId,Authorization,X-Auth-token,X-CORRELATION-ID
+123456,bot789,acc012,auth345,xtoken678,correl912
+234567,bot890,acc123,auth456,xtoken789,correl023
+345678,bot901,acc234,auth567,xtoken890,correl134
+456789,bot012,acc345,auth678,xtoken901,correl245
+567890,bot123,acc456,auth789,xtoken012,correl356
+678901,bot234,acc567,auth890,xtoken123,correl467
+789012,bot345,acc678,auth901,xtoken234,correl578
+890123,bot456,acc789,auth012,xtoken345,correl689
+901234,bot567,acc890,auth123,xtoken456,correl700
+012345,bot678,acc901,auth234,xtoken567,correl811
