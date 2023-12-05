@@ -1,0 +1,11 @@
+paymentId,customerId,amount,scheduledDate,sourceAccountId,targetAccountId,amountType,frequency,updateTransferType
+pay1234,1001,500.00,1617148800000,acc123,acc456,Fixed,Weekly,Next
+pay5678,1002,1000.00,1617148800001,acc789,acc012,Variable,Monthly,Immediately
+pay9012,1003,1500.00,1617148800002,acc345,acc678,Fixed,Bi-Weekly,Next
+pay3456,1004,2000.00,1617148800003,acc901,acc234,Variable,Quarterly,Immediately
+pay7890,1005,2500.00,1617148800004,acc567,acc890,Fixed,Annually,Next
+pay1235,1006,3000.00,1617148800005,acc234,acc567,Variable,Weekly,Immediately
+pay5679,1007,3500.00,1617148800006,acc890,acc123,Fixed,Bi-Weekly,Next
+pay9013,1008,4000.00,1617148800007,acc456,acc789,Variable,Monthly,Immediately
+pay3457,1009,4500.00,1617148800008,acc012,acc345,Fixed,Quarterly,Next
+pay7891,1010,5000.00,1617148800009,acc678,acc901,Variable,Annually,Immediately

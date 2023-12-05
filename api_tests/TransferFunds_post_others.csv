@@ -1,0 +1,11 @@
+koreUserId,botId,userCode,accountId,Authorization,customerId,amount,currency,sourceAccountId,targetAccountId,date,description,TransactionType,PaymentType
+user1,bot1,code1,acc1,auth1,1045300,3,USD,1042345,1042222,03-15-2021,Internal Transfer,1063,Minimum Payment
+user2,bot2,code2,acc2,auth2,1045301,5,EUR,1042346,1042223,03-16-2021,Loan Payment,1064,Monthly Payment
+user3,bot3,code3,acc3,auth3,1045302,10,USD,1042347,1042224,03-17-2021,Internal Transfer,1065,Additional Principal Payment
+user4,bot4,code4,acc4,auth4,1045303,7,GBP,1042348,1042225,03-18-2021,Loan Payment,1066,Minimum Payment
+user5,bot5,code5,acc5,auth5,1045304,2,USD,1042349,1042226,03-19-2021,Internal Transfer,1067,Monthly Payment
+user6,bot6,code6,acc6,auth6,1045305,4,JPY,1042350,1042227,03-20-2021,Loan Payment,1068,Additional Principal Payment
+user7,bot7,code7,acc7,auth7,1045306,9,USD,1042351,1042228,03-21-2021,Internal Transfer,1069,Minimum Payment
+user8,bot8,code8,acc8,auth8,1045307,6,CAD,1042352,1042229,03-22-2021,Loan Payment,1070,Monthly Payment
+user9,bot9,code9,acc9,auth9,1045308,8,USD,1042353,1042230,03-23-2021,Internal Transfer,1071,Additional Principal Payment
+user10,bot10,code10,acc10,auth10,1045309,1,AUD,1042354,1042231,03-24-2021,Loan Payment,1072,Minimum Payment

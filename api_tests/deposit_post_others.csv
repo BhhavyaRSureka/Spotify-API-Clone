@@ -1,0 +1,11 @@
+koreUserId,botId,accountId,Authorization,customerId,sourceAccountId,amount,currency,frontImage,backImage
+1234,bot567,acc890,auth123,1045300,1042345,1042222,USD,https://google.com,https://google.com
+2345,bot678,acc901,auth234,1045301,1042346,1042223,EUR,https://yahoo.com,https://yahoo.com
+3456,bot789,acc012,auth345,1045302,1042347,1042224,GBP,https://bing.com,https://bing.com
+4567,bot890,acc123,auth456,1045303,1042348,1042225,AUD,https://duckduckgo.com,https://duckduckgo.com
+5678,bot901,acc234,auth567,1045304,1042349,1042226,CAD,https://ask.com,https://ask.com
+6789,bot012,acc345,auth678,1045305,1042350,1042227,JPY,https://aol.com,https://aol.com
+7890,bot123,acc456,auth789,1045306,1042351,1042228,CHF,https://baidu.com,https://baidu.com
+8901,bot234,acc567,auth890,1045307,1042352,1042229,CNY,https://yandex.com,https://yandex.com
+9012,bot345,acc678,auth901,1045308,1042353,1042230,SEK,https://excite.com,https://excite.com
+0123,bot456,acc789,auth012,1045309,1042354,1042231,NZD,https://lycos.com,https://lycos.com

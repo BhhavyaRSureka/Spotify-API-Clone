@@ -1,0 +1,11 @@
+koreUserId,botId,accountId,Authorization
+123456789,bot-001,acc-001,auth-001
+234567890,bot-002,acc-002,auth-002
+345678901,bot-003,acc-003,auth-003
+456789012,bot-004,acc-004,auth-004
+567890123,bot-005,acc-005,auth-005
+678901234,bot-006,acc-006,auth-006
+789012345,bot-007,acc-007,auth-007
+890123456,bot-008,acc-008,auth-008
+901234567,bot-009,acc-009,auth-009
+012345678,bot-010,acc-010,auth-010
