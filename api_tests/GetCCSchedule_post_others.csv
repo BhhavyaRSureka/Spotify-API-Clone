@@ -1,0 +1,11 @@
+koreUserId,botId,accountId,Authorization
+bhhavvya,bot123,acc001,auth_key_01
+JohnDoe,bot456,acc002,auth_key_02
+JaneDoe,bot789,acc003,auth_key_03
+User123,bot111,acc004,auth_key_04
+User456,bot222,acc005,auth_key_05
+User789,bot333,acc006,auth_key_06
+Alice,bot444,acc007,auth_key_07
+Bob,bot555,acc008,auth_key_08
+Charlie,bot666,acc009,auth_key_09
+David,bot777,acc010,auth_key_10

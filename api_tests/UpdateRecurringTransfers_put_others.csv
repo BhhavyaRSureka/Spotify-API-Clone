@@ -1,0 +1,11 @@
+koreUserId,botId,userCode,accountId,Authorization,customerId,paymentId,amount,scheduledDate,sourceAccountId,targetAccountId,amountType,frequencyDurationUntilStop,frequencyDurationUntilDate,frequencyDurationNumberOfTransfers,frequencyIterate,updateTransferType
+bhhavvya,bot123,user01,acc01,auth01,1045304,744a77644d67e891,100,1617148800000,1042347,1043699,Fixed,Weekly,3,Next
+bhhavvya,bot124,user02,acc02,auth02,1045305,744a77644d67e892,200,1617148800001,1042348,1043700,Fixed,Weekly,4,Next
+bhhavvya,bot125,user03,acc03,auth03,1045306,744a77644d67e893,300,1617148800002,1042349,1043701,Fixed,Weekly,5,Next
+bhhavvya,bot126,user04,acc04,auth04,1045307,744a77644d67e894,400,1617148800003,1042350,1043702,Fixed,Weekly,6,Next
+bhhavvya,bot127,user05,acc05,auth05,1045308,744a77644d67e895,500,1617148800004,1042351,1043703,Fixed,Weekly,7,Next
+bhhavvya,bot128,user06,acc06,auth06,1045309,744a77644d67e896,600,1617148800005,1042352,1043704,Fixed,Weekly,8,Next
+bhhavvya,bot129,user07,acc07,auth07,1045310,744a77644d67e897,700,1617148800006,1042353,1043705,Fixed,Weekly,9,Next
+bhhavvya,bot130,user08,acc08,auth08,1045311,744a77644d67e898,800,1617148800007,1042354,1043706,Fixed,Weekly,10,Next
+bhhavvya,bot131,user09,acc09,auth09,1045312,744a77644d67e899,900,1617148800008,1042355,1043707,Fixed,Weekly,11,Next
+bhhavvya,bot132,user10,acc10,auth10,1045313,744a77644d67e900,1000,1617148800009,1042356,1043708,Fixed,Weekly,12,Next

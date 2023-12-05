@@ -1,0 +1,11 @@
+authType,firstName,lastName,email,phoneNumber,topic,message,availableTime,chatHistory,cif
+Authorized,James,William,James@gmail.com,9787643445,Routing and Account Number,Unable to find my routing number.,nighttime,html formatted message sent as string,1045310
+Unauthorized,John,Doe,johndoe@gmail.com,9787643446,Account Balance,Account balance is not updated.,morningtime,html formatted message sent as string,1045311
+Authorized,Jane,Doe,janedoe@gmail.com,9787643447,Password Reset,Unable to reset my password.,afternoontime,html formatted message sent as string,1045312
+Unauthorized,Robert,Smith,robertsmith@gmail.com,9787643448,Transaction History,Transaction history not showing.,nighttime,html formatted message sent as string,1045313
+Authorized,Mary,Johnson,maryjohnson@gmail.com,9787643449,Account Closure,Want to close my account.,morningtime,html formatted message sent as string,1045314
+Unauthorized,Michael,Johnson,michaeljohnson@gmail.com,9787643450,Card Blocking,My card is not working.,afternoontime,html formatted message sent as string,1045315
+Authorized,Linda,Williams,lindawilliams@gmail.com,9787643451,Account Opening,Unable to open a new account.,nighttime,html formatted message sent as string,1045316
+Unauthorized,David,Brown,davidbrown@gmail.com,9787643452,Loan Application,Loan application is stuck.,morningtime,html formatted message sent as string,1045317
+Authorized,Patricia,Jones,patriciajones@gmail.com,9787643453,Internet Banking,Internet banking not working.,afternoontime,html formatted message sent as string,1045318
+Unauthorized,Mark,Taylor,marktaylor@gmail.com,9787643454,Check Deposit,Unable to deposit my check.,nighttime,html formatted message sent as string,1045319

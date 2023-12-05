@@ -1,0 +1,11 @@
+customerId,amount,currency,sourceAccountId,targetAccountId,date,description,TransactionType,PaymentType
+1045300,3,USD,1042345,1042222,03-15-2021,Internal Transfer,1063,Minimum Payment
+1045301,5,EUR,1042346,1042223,04-16-2021,Loan Payment,1064,Monthly Payment
+1045302,7,USD,1042347,1042224,05-17-2021,Internal Transfer,1065,Additional Principal Payment
+1045303,2,GBP,1042348,1042225,06-18-2021,Loan Payment,1066,Minimum Payment
+1045304,6,USD,1042349,1042226,07-19-2021,Internal Transfer,1067,Monthly Payment
+1045305,8,EUR,1042350,1042227,08-20-2021,Loan Payment,1068,Additional Principal Payment
+1045306,4,USD,1042351,1042228,09-21-2021,Internal Transfer,1069,Minimum Payment
+1045307,10,GBP,1042352,1042229,10-22-2021,Loan Payment,1070,Monthly Payment
+1045308,9,USD,1042353,1042230,11-23-2021,Internal Transfer,1071,Additional Principal Payment
+1045309,1,EUR,1042354,1042231,12-24-2021,Loan Payment,1072,Minimum Payment
