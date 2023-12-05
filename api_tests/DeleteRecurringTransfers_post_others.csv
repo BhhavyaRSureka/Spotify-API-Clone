@@ -1,0 +1,11 @@
+koreUserId,botId,userCode,accountId,Authorization
+abc123,bot456,uc789,ac1011,auth1213
+def456,bot789,uc1011,ac1213,auth1415
+ghi789,bot1011,uc1213,ac1415,auth1617
+jkl1011,bot1213,uc1415,ac1617,auth1819
+mno1213,bot1415,uc1617,ac1819,auth2021
+pqr1415,bot1617,uc1819,ac2021,auth2223
+stu1617,bot1819,uc2021,ac2223,auth2425
+vwx1819,bot2021,uc2223,ac2425,auth2627
+yz2021,bot2223,uc2425,ac2627,auth2829
+abc2223,bot2425,uc2627,ac2829,auth3031

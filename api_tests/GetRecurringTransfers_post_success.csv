@@ -1,0 +1,11 @@
+koreUserId,botId,userCode,accountId,Authorization
+1234abc,bot5678,user9012,acc3456,auth7890
+2345bcd,bot6789,user0123,acc4567,auth8901
+3456cde,bot7890,user1234,acc5678,auth9012
+4567def,bot8901,user2345,acc6789,auth0123
+5678efg,bot9012,user3456,acc7890,auth1234
+6789fgh,bot0123,user4567,acc8901,auth2345
+7890ghi,bot1234,user5678,acc9012,auth3456
+8901hij,bot2345,user6789,acc0123,auth4567
+9012ijk,bot3456,user7890,acc1234,auth5678
+0123jkl,bot4567,user8901,acc2345,auth6789
