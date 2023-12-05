@@ -1,0 +1,11 @@
+koreUserId,botId,accountId,Authorization,X-Auth-token,X-CORRELATION-ID,customerId,email,alternatePhoneNumber,isAlternateMobileNumber,phone,isPrimaryMobileNumber,location
+bhhavvya,bot123,acc123,auth123,token123,1,1045300,John@gmail.com,1234567890,true,9876543210,true,New York
+bhhavvya,bot124,acc124,auth124,token124,2,1045301,Steve@gmail.com,1234567891,false,9876543211,false,London
+bhhavvya,bot125,acc125,auth125,token125,3,1045302,Peter@gmail.com,1234567892,true,9876543212,true,Paris
+bhhavvya,bot126,acc126,auth126,token126,4,1045303,Anna@gmail.com,1234567893,false,9876543213,true,Berlin
+bhhavvya,bot127,acc127,auth127,token127,5,1045304,Emma@gmail.com,1234567894,true,9876543214,false,Amsterdam
+bhhavvya,bot128,acc128,auth128,token128,6,1045305,Oliver@gmail.com,1234567895,false,9876543215,true,Sydney
+bhhavvya,bot129,acc129,auth129,token129,7,1045306,Liam@gmail.com,1234567896,true,9876543216,false,Tokyo
+bhhavvya,bot130,acc130,auth130,token130,8,1045307,Isabella@gmail.com,1234567897,false,9876543217,true,Moscow
+bhhavvya,bot131,acc131,auth131,token131,9,1045308,Mia@gmail.com,1234567898,true,9876543218,false,Rome
+bhhavvya,bot132,acc132,auth132,token132,10,1045309,Sophia@gmail.com,1234567899,false,9876543219,true,Madrid

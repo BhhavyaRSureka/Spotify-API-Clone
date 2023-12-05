@@ -1,0 +1,11 @@
+koreUserId,botId,userCode,accountId,Authorization,customerId,amount,currency,sourceAccountId,targetAccountId,date,description,TransactionType,PaymentType
+bhhavvya,bot1234,user01,acc123,auth123,1045300,3,USD,1042345,1042222,03-15-2021,Internal Transfer,1063,Minimum Payment
+bhhavvya,bot5678,user02,acc456,auth456,1045301,5,EUR,1042346,1042223,03-16-2021,Mortgage Payment,1064,Monthly Payment
+bhhavvya,bot9012,user03,acc789,auth789,1045302,7,GBP,1042347,1042224,03-17-2021,Loans Payment,1065,Additional Principal Payment
+bhhavvya,bot3456,user04,acc012,auth012,1045303,9,JPY,1042348,1042225,03-18-2021,Internal Transfer,1066,Minimum Payment
+bhhavvya,bot7890,user05,acc345,auth345,1045304,11,AUD,1042349,1042226,03-19-2021,Mortgage Payment,1067,Monthly Payment
+bhhavvya,bot1235,user06,acc678,auth678,1045305,13,CAD,1042350,1042227,03-20-2021,Loans Payment,1068,Additional Principal Payment
+bhhavvya,bot5679,user07,acc901,auth901,1045306,15,INR,1042351,1042228,03-21-2021,Internal Transfer,1069,Minimum Payment
+bhhavvya,bot9013,user08,acc234,auth234,1045307,17,CHF,1042352,1042229,03-22-2021,Mortgage Payment,1070,Monthly Payment
+bhhavvya,bot3457,user09,acc567,auth567,1045308,19,CNY,1042353,1042230,03-23-2021,Loans Payment,1071,Additional Principal Payment
+bhhavvya,bot7891,user10,acc890,auth890,1045309,21,SEK,1042354,1042231,03-24-2021,Internal Transfer,1072,Minimum Payment

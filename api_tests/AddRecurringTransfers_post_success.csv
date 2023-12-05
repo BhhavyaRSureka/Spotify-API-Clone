@@ -1,0 +1,11 @@
+customerId,amount,sourceAccountId,targetAccountId,currency,status,scheduledDate,recurringOptions.amountType,recurringOptions.frequency.iterate,recurringOptions.frequency.duration.untilStop,recurringOptions.frequency.duration.untilDate,recurringOptions.frequency.duration.numberOfTransfers
+1045304,39,1042347,1043699,USD,Pending,1616544000000,Fixed,Weekly,,3
+1045305,50,1042348,1043700,EUR,Completed,1616544100000,Variable,Monthly,No,1616544200000,5
+1045306,60,1042349,1043701,GBP,Cancelled,1616544200000,Fixed,Yearly,Yes,,10
+1045307,70,1042350,1043702,JPY,Pending,1616544300000,Variable,Weekly,No,1616544400000,7
+1045308,80,1042351,1043703,AUD,Completed,1616544400000,Fixed,Monthly,Yes,,4
+1045309,90,1042352,1043704,CAD,Cancelled,1616544500000,Variable,Yearly,No,1616544600000,6
+1045310,100,1042353,1043705,CHF,Pending,1616544600000,Fixed,Weekly,Yes,,8
+1045311,110,1042354,1043706,CNY,Completed,1616544700000,Variable,Monthly,No,1616544800000,9
+1045312,120,1042355,1043707,INR,Cancelled,1616544800000,Fixed,Yearly,Yes,,2
+1045313,130,1042356,1043708,BRL,Pending,1616544900000,Variable,Weekly,No,1616545000000,1

@@ -1,0 +1,11 @@
+koreUserId,botId,userCode,accountId,Authorization,customerId,amount,sourceAccountId,targetAccountId,currency,status,scheduledDate,recurringOptions
+bhhavvya,BOT001,UC001,AC001,AUTH001,1045301,500,1042001,1043001,USD,Completed,1616544000000,{amountType:Fixed, frequency: {iterate:Monthly, duration: {numberOfTransfers:5}}}
+bhhavvya,BOT002,UC002,AC002,AUTH002,1045302,200,1042002,1043002,GBP,Pending,1616544000000,{amountType:Variable, frequency: {iterate:Weekly, duration: {numberOfTransfers:10}}}
+bhhavvya,BOT003,UC003,AC003,AUTH003,1045303,300,1042003,1043003,EUR,Failed,1616544000000,{amountType:Fixed, frequency: {iterate:BiWeekly, duration: {numberOfTransfers:7}}}
+bhhavvya,BOT004,UC004,AC004,AUTH004,1045304,100,1042004,1043004,JPY,Completed,1616544000000,{amountType:Variable, frequency: {iterate:Monthly, duration: {numberOfTransfers:5}}}
+bhhavvya,BOT005,UC005,AC005,AUTH005,1045305,700,1042005,1043005,INR,Pending,1616544000000,{amountType:Fixed, frequency: {iterate:Quarterly, duration: {numberOfTransfers:2}}}
+bhhavvya,BOT006,UC006,AC006,AUTH006,1045306,600,1042006,1043006,USD,Failed,1616544000000,{amountType:Variable, frequency: {iterate:Monthly, duration: {numberOfTransfers:5}}}
+bhhavvya,BOT007,UC007,AC007,AUTH007,1045307,800,1042007,1043007,GBP,Completed,1616544000000,{amountType:Fixed, frequency: {iterate:Weekly, duration: {numberOfTransfers:4}}}
+bhhavvya,BOT008,UC008,AC008,AUTH008,1045308,900,1042008,1043008,EUR,Pending,1616544000000,{amountType:Variable, frequency: {iterate:BiWeekly, duration: {numberOfTransfers:6}}}
+bhhavvya,BOT009,UC009,AC009,AUTH009,1045309,1000,1042009,1043009,JPY,Failed,1616544000000,{amountType:Fixed, frequency: {iterate:Monthly, duration: {numberOfTransfers:5}}}
+bhhavvya,BOT010,UC010,AC010,AUTH010,1045310,1100,1042010,1043010,INR,Completed,1616544000000,{amountType:Variable, frequency: {iterate:Quarterly, duration: {numberOfTransfers:2}}}

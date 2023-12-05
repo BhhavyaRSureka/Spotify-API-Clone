@@ -1,0 +1,11 @@
+koreUserId,botId,userCode,accountId,Authorization,customerId,paymentId,updateTransferType
+bhhavvya,bot123,user001,acc001,auth001,1045300,97087c6c24788b1d,all
+user002,bot789,bhhavvya,acc002,auth002,1045301,97087c6c24788b1e,none
+user003,bot456,bhhavvya,acc003,auth003,1045302,97087c6c24788b1f,all
+bhhavvya,bot123,user004,acc004,auth004,1045303,97087c6c24788b1g,none
+user005,bot789,bhhavvya,acc005,auth005,1045304,97087c6c24788b1h,all
+user006,bot456,bhhavvya,acc006,auth006,1045305,97087c6c24788b1i,none
+bhhavvya,bot123,user007,acc007,auth007,1045306,97087c6c24788b1j,all
+user008,bot789,bhhavvya,acc008,auth008,1045307,97087c6c24788b1k,none
+user009,bot456,bhhavvya,acc009,auth009,1045308,97087c6c24788b1l,all
+bhhavvya,bot123,user010,acc010,auth010,1045309,97087c6c24788b1m,none
