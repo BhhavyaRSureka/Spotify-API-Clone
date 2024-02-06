@@ -1,0 +1,11 @@
+200,transactionId,customerTransactionId,output,output.transactionShipments,output.transactionShipments.0,output.alerts,output.alerts.0,output.jobId,headers
+200,TRN12345,CUST12345,{shipmentDetails},{[shipment1,shipment2]},{shipment1},{[alert1,alert2]},{alert1},JOB12345,No response headers
+200,TRN12346,CUST12346,{shipmentDetails},{[shipment3,shipment4]},{shipment3},{[alert3,alert4]},{alert3},JOB12346,No response headers
+200,TRN12347,CUST12347,{shipmentDetails},{[shipment5,shipment6]},{shipment5},{[alert5,alert6]},{alert5},JOB12347,No response headers
+200,TRN12348,CUST12348,{shipmentDetails},{[shipment7,shipment8]},{shipment7},{[alert7,alert8]},{alert7},JOB12348,No response headers
+200,TRN12349,CUST12349,{shipmentDetails},{[shipment9,shipment10]},{shipment9},{[alert9,alert10]},{alert9},JOB12349,No response headers
+200,TRN12350,CUST12350,{shipmentDetails},{[shipment11,shipment12]},{shipment11},{[alert11,alert12]},{alert11},JOB12350,No response headers
+200,TRN12351,CUST12351,{shipmentDetails},{[shipment13,shipment14]},{shipment13},{[alert13,alert14]},{alert13},JOB12351,No response headers
+200,TRN12352,CUST12352,{shipmentDetails},{[shipment15,shipment16]},{shipment15},{[alert15,alert16]},{alert15},JOB12352,No response headers
+200,TRN12353,CUST12353,{shipmentDetails},{[shipment17,shipment18]},{shipment17},{[alert17,alert18]},{alert17},JOB12353,No response headers
+200,TRN12354,CUST12354,{shipmentDetails},{[shipment19,shipment20]},{shipment19},{[alert19,alert20]},{alert19},JOB12354,No response headers

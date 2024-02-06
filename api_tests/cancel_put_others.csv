@@ -1,0 +1,12 @@
+x-customer-transaction-id,content-type,x-locale,authorization
+12345,text/html,en-US,Bearer 123456789
+67890,application/json,fr-FR,Bearer 987654321
+11111,text/plain,de-DE,Bearer 111111111
+22222,application/xml,es-ES,Bearer 222222222
+33333,text/html,jp-JP,Bearer 333333333
+44444,application/json,it-IT,Bearer 444444444
+55555,text/plain,ru-RU,Bearer 555555555
+66666,application/xml,pt-PT,Bearer 666666666
+77777,text/html,zh-CN,Bearer 777777777
+88888,application/json,ar-SA,Bearer 888888888
+99999,text/plain,ko-KR,Bearer 999999999

@@ -1,0 +1,11 @@
+x-customer-transaction-id,content-type,x-locale,authorization
+CTID1234567890,application/json,en-US,AuthKey1234567890
+CTID1234567891,text/xml,en-GB,AuthKey1234567891
+CTID1234567892,application/xml,en-US,AuthKey1234567892
+CTID1234567893,text/html,fr-FR,AuthKey1234567893
+CTID1234567894,application/xhtml+xml,es-ES,AuthKey1234567894
+CTID1234567895,text/plain,de-DE,AuthKey1234567895
+CTID1234567896,application/soap+xml,zh-CN,AuthKey1234567896
+CTID1234567897,multipart/form-data,ja-JP,AuthKey1234567897
+CTID1234567898,application/octet-stream,ru-RU,AuthKey1234567898
+CTID1234567899,text/css,it-IT,AuthKey1234567899

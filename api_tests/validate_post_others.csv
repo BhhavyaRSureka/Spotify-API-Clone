@@ -1,0 +1,11 @@
+x-customer-transaction-id,content-type,x-locale,authorization,statusCode
+1234,text/html,en-US,Bearer abcdef1234,200
+5678,application/json,fr-FR,Bearer zyxwvu5678,400
+9012,image/jpeg,es-ES,Bearer qponml9012,500
+3456,text/plain,de-DE,Bearer lkjihg3456,200
+7890,application/xml,it-IT,Bearer gfedcb7890,400
+2345,video/mp4,en-GB,Bearer tsrqpo2345,500
+6789,audio/mpeg,fr-CA,Bearer onmlkj6789,200
+0123,text/css,es-MX,Bearer jihgfe0123,400
+4567,application/javascript,zh-CN,Bearer edcbat4567,500
+8901,image/png,ja-JP,Bearer poqrst8901,200

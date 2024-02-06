@@ -1,0 +1,11 @@
+200,transactionId,customerTransactionId,output,output.cancelledTag,output.successMessage
+200,TRX123,CUST123,{output:1},false,Payment Successful
+200,TRX124,CUST124,{output:2},true,Payment Cancelled
+200,TRX125,CUST125,{output:3},false,Payment Successful
+200,TRX126,CUST126,{output:4},false,Payment Successful
+200,TRX127,CUST127,{output:5},true,Payment Cancelled
+200,TRX128,CUST128,{output:6},false,Payment Successful
+200,TRX129,CUST129,{output:7},false,Payment Successful
+200,TRX130,CUST130,{output:8},true,Payment Cancelled
+200,TRX131,CUST131,{output:9},false,Payment Successful
+200,TRX132,CUST132,{output:10},false,Payment Successful
