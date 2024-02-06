@@ -1,0 +1,11 @@
+transactionId,locale,statusCode
+12345,en-US,200
+54321,fr-FR,404
+67890,es-ES,500
+09876,de-DE,302
+13579,it-IT,403
+97531,ko-KR,401
+24680,zh-CN,201
+08642,ja-JP,202
+75309,ru-RU,301
+15926,ar-SA,502

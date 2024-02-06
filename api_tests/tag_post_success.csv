@@ -1,0 +1,11 @@
+200,transactionId,customerTransactionId,output,output.masterTrackingNumber,output.serviceType,output.shipTimestamp,output.alerts,output.alerts.0,headers
+200,TRN12345,CUST12345,Output1,MTN12345,Service1,2022-01-01T12:00:00Z,[Alert1, Alert2],Alert1,No response headers
+200,TRN12346,CUST12346,Output2,MTN12346,Service2,2022-01-02T12:00:00Z,[Alert2, Alert3],Alert2,No response headers
+200,TRN12347,CUST12347,Output3,MTN12347,Service3,2022-01-03T12:00:00Z,[Alert3, Alert4],Alert3,No response headers
+200,TRN12348,CUST12348,Output4,MTN12348,Service4,2022-01-04T12:00:00Z,[Alert4, Alert5],Alert4,No response headers
+200,TRN12349,CUST12349,Output5,MTN12349,Service5,2022-01-05T12:00:00Z,[Alert5, Alert6],Alert5,No response headers
+200,TRN12350,CUST12350,Output6,MTN12350,Service6,2022-01-06T12:00:00Z,[Alert6, Alert7],Alert6,No response headers
+200,TRN12351,CUST12351,Output7,MTN12351,Service7,2022-01-07T12:00:00Z,[Alert7, Alert8],Alert7,No response headers
+200,TRN12352,CUST12352,Output8,MTN12352,Service8,2022-01-08T12:00:00Z,[Alert8, Alert9],Alert8,No response headers
+200,TRN12353,CUST12353,Output9,MTN12353,Service9,2022-01-09T12:00:00Z,[Alert9, Alert10],Alert9,No response headers
+200,TRN12354,CUST12354,Output10,MTN12354,Service10,2022-01-10T12:00:00Z,[Alert10, Alert11],Alert10,No response headers

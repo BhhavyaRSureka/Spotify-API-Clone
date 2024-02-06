@@ -1,0 +1,11 @@
+200,transactionId,customerTransactionId,output,output.cancelledShipment,output.cancelledHistory,output.successMessage,output.alerts,output.alerts.0,headers
+200,TID_001,CTID_001,Object1,false,true,Transaction completed,[],Object1,No response headers
+200,TID_002,CTID_002,Object2,true,false,Transaction failed,[],Object2,No response headers
+200,TID_003,CTID_003,Object3,false,true,Transaction completed,[],Object3,No response headers
+200,TID_004,CTID_004,Object4,true,false,Transaction failed,[],Object4,No response headers
+200,TID_005,CTID_005,Object5,false,true,Transaction completed,[],Object5,No response headers
+200,TID_006,CTID_006,Object6,true,false,Transaction failed,[],Object6,No response headers
+200,TID_007,CTID_007,Object7,false,true,Transaction completed,[],Object7,No response headers
+200,TID_008,CTID_008,Object8,true,false,Transaction failed,[],Object8,No response headers
+200,TID_009,CTID_009,Object9,false,true,Transaction completed,[],Object9,No response headers
+200,TID_010,CTID_010,Object10,true,false,Transaction failed,[],Object10,No response headers
